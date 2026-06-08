@@ -1,5 +1,8 @@
 # Predicting Appliance Energy Consumption Using Machine Learning
 
+## Live Demo
+
+https://appliance-energy-consumption-prediction-dptuatyhyw7h4puqqfa9gm.streamlit.app/
 
 
 ## Project Overview
