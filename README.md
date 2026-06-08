@@ -62,19 +62,19 @@ Random Forest Regressor
 
 
 
-\* Predicting Appliance Energy Consumption.ipynb
+* Predicting Appliance Energy Consumption.ipynb
 
-\* Presentation.pptx
+* Presentation.pptx
 
-\* appliance\_energy\_model.pkl
+* appliance\_energy\_model.pkl
 
-\* app.py
+* app.py
 
-\* requirements.txt
+* requirements.txt
 
 
 
-\## Streamlit Application
+## Streamlit Application
 
 
 
@@ -82,7 +82,7 @@ The project includes a Streamlit application that allows users to predict applia
 
 
 
-\## Author
+## Author
 
 
 
