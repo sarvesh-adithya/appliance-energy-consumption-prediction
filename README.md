@@ -1,8 +1,8 @@
-\# Predicting Appliance Energy Consumption Using Machine Learning
+# Predicting Appliance Energy Consumption Using Machine Learning
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,35 +10,35 @@ This project predicts household appliance energy consumption using Machine Learn
 
 
 
-\## Dataset
+## Dataset
 
 
 
-\* Appliance Energy Prediction Dataset
+* Appliance Energy Prediction Dataset
 
-\* \~19,700 observations
+* \~19,700 observations
 
-\* Environmental, weather, and time-based features
-
-
-
-\## Models Used
+* Environmental, weather, and time-based features
 
 
 
-\* Linear Regression
-
-\* Decision Tree Regressor
-
-\* Random Forest Regressor
-
-\* Gradient Boosting Regressor
-
-\* XGBoost Regressor
+## Models Used
 
 
 
-\## Final Model
+* Linear Regression
+
+* Decision Tree Regressor
+
+* Random Forest Regressor
+
+* Gradient Boosting Regressor
+
+* XGBoost Regressor
+
+
+
+## Final Model
 
 
 
@@ -46,19 +46,19 @@ Random Forest Regressor
 
 
 
-\## Performance
+## Performance
 
 
 
-\* R² Score: 0.59
+* R² Score: 0.59
 
-\* MAE: \~30 Wh
+* MAE: \~30 Wh
 
-\* RMSE: \~64 Wh
+* RMSE: \~64 Wh
 
 
 
-\## Files Included
+## Files Included
 
 
 
