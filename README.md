@@ -90,13 +90,11 @@ sensors.
 
 - **Data & Modeling**: Python, Pandas, NumPy, Scikit-learn, XGBoost
 - **Interpretability**: SHAP
-- **Model persistence**: joblib
 
 ## Project Structure
 
 ```
 ├── Predicting Appliance Energy Consumption In Households.ipynb   # Full analysis
-├── appliance_energy_model.pkl      # Serialized model
 ├── requirements.txt                # Dependencies
 └── README.md
 ```
